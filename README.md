@@ -1,3 +1,3 @@
-# Quasar App
+# Aplicação de Controle Financeiro
 
-> WIP
+> App de Controle Financeiro feito no Quasar
